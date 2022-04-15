@@ -1,0 +1,21 @@
+SYMBOL
+	NAME Kotak
+	TYPE Vector
+	POINTS 0 0 1 0 1 1 0 1 0 0 END
+	FILLED True
+END
+symbol
+	name dashed
+	type ellipse
+	filled true
+	points 1 1 end
+	style 10 5 5 10 end
+end
+
+symbol 
+	name plus
+	type truetype
+	font arial
+	filled true
+	antialias true character"+"
+end

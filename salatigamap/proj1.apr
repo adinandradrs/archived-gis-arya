@@ -1,0 +1,1845 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"proj1.apr"
+	CreationDate:	"Thursday, April 07, 2011 12:00:40 AM"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	22
+	Doc:	38
+	Doc:	55
+	Doc:	215
+	Doc:	89
+	ActiveDoc:	89
+	Buttons:	228
+	Buttons:	229
+	Buttons:	230
+	Scripts:	231
+	Prefs:	232
+	WorkDir:	1059
+	WinX:	-4
+	WinY:	-3
+	WinW:	1288
+	WinH:	807
+	SerialNumber:	"511111111111"
+	SelColor:	1060
+	GUINames:	1061
+	GUINames:	1062
+	GUINames:	1063
+	GUINames:	1064
+	GUINames:	1065
+	GUINames:	1066
+	GUINames:	1067
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	5
+	Y:	5
+	W:	238
+	H:	317
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"atm.dbf"
+	CreationDate:	"Thursday, April 07, 2011 3:16:50 PM"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	9
+	VTab:	10
+)
+
+(DocWin.7
+	Owner:	6
+	X:	5
+	Y:	5
+	W:	365
+	H:	248
+)
+
+(CSMgr.8
+)
+
+(DocAct.9
+	Doc:	6
+)
+
+(FTab.10
+	Name:	"atm.dbf"
+	BTab:	11
+	Fields:	17
+	Fields:	12
+	Fields:	13
+	Fields:	14
+	Fields:	15
+	SelBits:	18
+	FSrc:	19
+)
+
+(dBASE.11
+	Name:	"atm.dbf"
+	Fields:	12
+	Fields:	13
+	Fields:	14
+	Fields:	15
+	FileName:	16
+)
+
+(Field.12
+	Name:	"Id"
+	Btab:	11
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.13
+	Name:	"Atm"
+	Btab:	11
+	Alias:	"Atm"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.14
+	Name:	"Jalan"
+	Btab:	11
+	Alias:	"Jalan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.15
+	Name:	"Jenis"
+	Btab:	11
+	Alias:	"Jenis"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.16
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/atm.dbf"
+)
+
+(Field.17
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.18
+	NumBits:	15
+	NumBitsSet:	1
+	Bits:	00000080 
+)
+
+(ShpSrc.19
+	Name:	20
+	FTab:	10
+)
+
+(SrcName.20
+	FileName:	21
+	Name:	"atm.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.21
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/atm.shp"
+)
+
+(Table.22
+	Name:	"Attributes of Atm.shp"
+	CreationDate:	"Thursday, April 07, 2011 12:03:17 AM"
+	GUIName:	"Table"
+	Win:	23
+	CSMgr:	24
+	DocExts:	25
+	VTab:	26
+)
+
+(DocWin.23
+	Owner:	22
+	X:	-4
+	Y:	-4
+	W:	950
+	H:	553
+)
+
+(CSMgr.24
+)
+
+(DocAct.25
+	Doc:	22
+)
+
+(FTab.26
+	Name:	"atm.dbf"
+	BTab:	27
+	Fields:	33
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	SelBits:	34
+	FSrc:	35
+)
+
+(dBASE.27
+	Name:	"atm.dbf"
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	FileName:	32
+)
+
+(Field.28
+	Name:	"Id"
+	Btab:	27
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.29
+	Name:	"Atm"
+	Btab:	27
+	Alias:	"Atm"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.30
+	Name:	"Jalan"
+	Btab:	27
+	Alias:	"Jalan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.31
+	Name:	"Jenis"
+	Btab:	27
+	Alias:	"Jenis"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.32
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/atm.dbf"
+)
+
+(Field.33
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.34
+	NumBits:	15
+	NumBitsSet:	1
+	Bits:	00000080 
+)
+
+(ShpSrc.35
+	Name:	36
+	FTab:	26
+)
+
+(SrcName.36
+	FileName:	37
+	Name:	"atm.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.37
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/atm.shp"
+)
+
+(Table.38
+	Name:	"Attributes of Gpsperusahaan.shp"
+	CreationDate:	"01 Nopember 2012 17:07:40"
+	GUIName:	"Table"
+	Win:	39
+	CSMgr:	40
+	DocExts:	41
+	VTab:	42
+)
+
+(DocWin.39
+	Owner:	38
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	695
+)
+
+(CSMgr.40
+)
+
+(DocAct.41
+	Doc:	38
+)
+
+(FTab.42
+	Name:	"gpsperusahaan.dbf"
+	BTab:	43
+	Fields:	50
+	Fields:	44
+	Fields:	45
+	Fields:	46
+	Fields:	47
+	Fields:	48
+	SelBits:	51
+	FSrc:	52
+)
+
+(dBASE.43
+	Name:	"gpsperusahaan.dbf"
+	Fields:	44
+	Fields:	45
+	Fields:	46
+	Fields:	47
+	Fields:	48
+	FileName:	49
+)
+
+(Field.44
+	Name:	"Usahaid"
+	Btab:	43
+	Alias:	"Usahaid"
+	Visible:	1
+	Type:	9
+	Pixels:	44
+)
+
+(Field.45
+	Name:	"Nama"
+	Btab:	43
+	Alias:	"Nama"
+	Visible:	1
+	Type:	4
+	Order:	1
+	Pixels:	150
+)
+
+(Field.46
+	Name:	"Alamat"
+	Btab:	43
+	Alias:	"Alamat"
+	Visible:	1
+	Type:	4
+	Order:	2
+	Pixels:	470
+)
+
+(Field.47
+	Name:	"Southing"
+	Btab:	43
+	Alias:	"Southing"
+	Visible:	1
+	Type:	9
+	Order:	3
+	Pixels:	59
+)
+
+(Field.48
+	Name:	"Easting"
+	Btab:	43
+	Alias:	"Easting"
+	Visible:	1
+	Type:	9
+	Order:	4
+	Pixels:	59
+)
+
+(FN.49
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/gpsperusahaan.dbf"
+)
+
+(Field.50
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.51
+	NumBits:	164
+	NumBitsSet:	1
+	Bits:	00000200 00000000 00000000 00000000 
+	Bits:	00000000 00000000 
+)
+
+(ShpSrc.52
+	Name:	53
+	FTab:	42
+)
+
+(SrcName.53
+	FileName:	54
+	Name:	"gpsperusahaan.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.54
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/gpsperusahaan.shp"
+)
+
+(Table.55
+	Name:	"Attributes of Salatiga_kecamatan.shp"
+	CreationDate:	"01 Nopember 2012 17:07:51"
+	GUIName:	"Table"
+	Win:	56
+	CSMgr:	57
+	DocExts:	214
+	VTab:	63
+)
+
+(DocWin.56
+	Owner:	55
+	X:	20
+	Y:	20
+	W:	365
+	H:	255
+)
+
+(CSMgr.57
+	Client:	58
+)
+
+(CSClient.58
+	Client:	59
+	ReqName:	"RespondTable"
+)
+
+(FTheme.59
+	Name:	"Salatiga_kecamatan.shp"
+	Source:	60
+	Flags:	0x06
+	Legend:	75
+	Threshold:	88
+	View:	89
+	GSet:	205
+	LegEditScript:	"View.EditLegend"
+	TxPos:	206
+	LabelField:	65
+	Table:	55
+	AttrRules:	207
+	AttrRules:	208
+	AttrRules:	209
+	AttrRules:	210
+	AttrRules:	211
+	AttrRules:	212
+	AttrRules:	213
+	SnapTolCursor:	1
+)
+
+(ShpSrc.60
+	Name:	61
+	FTab:	63
+)
+
+(SrcName.61
+	FileName:	62
+	Name:	"salatiga_kecamatan.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.62
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/salatiga_kecamatan.shp"
+)
+
+(FTab.63
+	Name:	"salatiga_kecamatan.dbf"
+	BTab:	64
+	Fields:	73
+	Fields:	65
+	Fields:	66
+	Fields:	67
+	Fields:	68
+	Fields:	69
+	Fields:	70
+	Fields:	71
+	SelBits:	74
+	FSrc:	60
+)
+
+(dBASE.64
+	Name:	"salatiga_kecamatan.dbf"
+	Fields:	65
+	Fields:	66
+	Fields:	67
+	Fields:	68
+	Fields:	69
+	Fields:	70
+	Fields:	71
+	FileName:	72
+)
+
+(Field.65
+	Name:	"Prop_no"
+	Btab:	64
+	Alias:	"Prop_no"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.66
+	Name:	"Kabkota_no"
+	Btab:	64
+	Alias:	"Kabkota_no"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.67
+	Name:	"Kec_no"
+	Btab:	64
+	Alias:	"Kec_no"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.68
+	Name:	"Id2000"
+	Btab:	64
+	Alias:	"Id2000"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.69
+	Name:	"Propinsi"
+	Btab:	64
+	Alias:	"Propinsi"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.70
+	Name:	"Kab_kota"
+	Btab:	64
+	Alias:	"Kab_kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.71
+	Name:	"Kec"
+	Btab:	64
+	Alias:	"Kec"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.72
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/salatiga_kecamatan.dbf"
+)
+
+(Field.73
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.74
+	NumBits:	4
+
+)
+
+(Legend.75
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	76
+	Class:	81
+	StdDevs:	1.00000000000000
+	NullSym:	82
+	NullValues:	86
+	StatValues:	87
+	Precision:	-3
+)
+
+(SymList.76
+	Child:	77
+)
+
+(BShSym.77
+	Color:	78
+	Outline:	1
+	OutlineColor:	79
+	OutlineWidth:	0.10000000000000
+	BgColor:	80
+)
+
+(TClr.78
+	Red:	0x4e97
+	Green:	0xe909
+	Blue:	0xcd51
+)
+
+(TClr.79
+)
+
+(TClr.80
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.81
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.82
+	Color:	83
+	Outline:	1
+	OutlineColor:	84
+	OutlineWidth:	0.10000000000000
+	BgColor:	85
+)
+
+(TClr.83
+	Name:	"Transparent"
+)
+
+(TClr.84
+	Name:	"Transparent"
+)
+
+(TClr.85
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.86
+)
+
+(NameDict.87
+)
+
+(Thresh.88
+)
+
+(View.89
+	Name:	"View1"
+	CreationDate:	"Thursday, April 07, 2011 12:01:12 AM"
+	GUIName:	"View"
+	Win:	90
+	CSMgr:	91
+	DocExts:	93
+	DocExts:	94
+	Graphics:	95
+	Theme:	102
+	Theme:	138
+	Theme:	59
+	LastScale:	86953.18236267959600
+	Dpy:	96
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.90
+	Owner:	89
+	Open:	1
+	X:	367
+	Y:	8
+	W:	877
+	H:	611
+)
+
+(CSMgr.91
+	Client:	92
+)
+
+(CSClient.92
+	Client:	93
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.93
+	Doc:	89
+)
+
+(DocAct.94
+	Doc:	89
+)
+
+(GList.95
+	Dpy:	96
+	FormatNumb:	101
+)
+
+(MapDpy.96
+	Left:	110.46282186600767
+	Bottom:	-7.39686483898814
+	Top:	-7.27831016101186
+	Right:	110.53975793399231
+	ReportUnits:	4
+	Units:	10
+	Scale:	97
+	FrameTop:	5.96875000000000
+	FrameRight:	7.41666666666667
+	PageDpy:	98
+	FitToPage:	1
+	MouseLoc:	100
+)
+
+(Numb.97
+	N:	50.34596780056375
+)
+
+(PageDpy.98
+	Top:	5.96875000000000
+	Right:	7.41666666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	99
+	ZoomRight:	7.41666666666667
+	ZoomTop:	5.96875000000000
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.99
+	N:	96.00000000000000
+)
+
+(PointD.100
+	x:	110.52239387409000
+	y:	-7.27975847295921
+)
+
+(Numb.101
+)
+
+(FTheme.102
+	Name:	"Gpsperusahaan.shp"
+	Source:	103
+	Flags:	0x07
+	Legend:	116
+	Threshold:	135
+	View:	89
+	GSet:	136
+	LegEditScript:	"View.EditLegend"
+	TxPos:	137
+	LabelField:	109
+	SnapTolCursor:	1
+)
+
+(ShpSrc.103
+	Name:	104
+	FTab:	106
+)
+
+(SrcName.104
+	FileName:	105
+	Name:	"gpsperusahaan.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.105
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/gpsperusahaan.shp"
+)
+
+(FTab.106
+	Name:	"gpsperusahaan.dbf"
+	BTab:	107
+	Fields:	114
+	Fields:	108
+	Fields:	109
+	Fields:	110
+	Fields:	111
+	Fields:	112
+	SelBits:	115
+	FSrc:	103
+)
+
+(dBASE.107
+	Name:	"gpsperusahaan.dbf"
+	Fields:	108
+	Fields:	109
+	Fields:	110
+	Fields:	111
+	Fields:	112
+	FileName:	113
+)
+
+(Field.108
+	Name:	"Usahaid"
+	Btab:	107
+	Alias:	"Usahaid"
+	Visible:	1
+	Type:	9
+	Pixels:	44
+)
+
+(Field.109
+	Name:	"Nama"
+	Btab:	107
+	Alias:	"Nama"
+	Visible:	1
+	Type:	4
+	Order:	1
+	Pixels:	150
+)
+
+(Field.110
+	Name:	"Alamat"
+	Btab:	107
+	Alias:	"Alamat"
+	Visible:	1
+	Type:	4
+	Order:	2
+	Pixels:	150
+)
+
+(Field.111
+	Name:	"Southing"
+	Btab:	107
+	Alias:	"Southing"
+	Visible:	1
+	Type:	9
+	Order:	3
+	Pixels:	59
+)
+
+(Field.112
+	Name:	"Easting"
+	Btab:	107
+	Alias:	"Easting"
+	Visible:	1
+	Type:	9
+	Order:	4
+	Pixels:	65
+)
+
+(FN.113
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/gpsperusahaan.dbf"
+)
+
+(Field.114
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+)
+
+(Bitmap.115
+	NumBits:	164
+
+)
+
+(Legend.116
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	117
+	Class:	125
+	StdDevs:	1.00000000000000
+	NullSym:	126
+	NullValues:	133
+	StatValues:	134
+	Precision:	-3
+)
+
+(SymList.117
+	Child:	118
+)
+
+(BMkSym.118
+	Color:	119
+	BgColor:	120
+	Font:	121
+	Size:	8.00000000000000
+	Pattern:	36
+	Angle:	360.00000000000000
+)
+
+(TClr.119
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.120
+	Name:	"Transparent"
+)
+
+(NFont.121
+	Family:	122
+	Name:	123
+	Style:	124
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.122
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.123
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.124
+	S:	"Normal"
+)
+
+(LClass.125
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.126
+	Color:	127
+	BgColor:	128
+	Font:	129
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.127
+	Name:	"Transparent"
+)
+
+(TClr.128
+	Name:	"Transparent"
+)
+
+(NFont.129
+	Family:	130
+	Name:	131
+	Style:	132
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.130
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.131
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.132
+	S:	"Normal"
+)
+
+(NameDict.133
+)
+
+(NameDict.134
+)
+
+(Thresh.135
+)
+
+(GSet.136
+)
+
+(TxPosPt.137
+	HAlign:	4
+	VAlign:	3
+)
+
+(FTheme.138
+	Name:	"Jalan_salatiga.shp"
+	Source:	139
+	Flags:	0x06
+	Legend:	170
+	Threshold:	179
+	View:	89
+	GSet:	180
+	LegEditScript:	"View.EditLegend"
+	TxPos:	181
+	LabelField:	145
+	AttrRules:	182
+	AttrRules:	183
+	AttrRules:	184
+	AttrRules:	185
+	AttrRules:	186
+	AttrRules:	187
+	AttrRules:	188
+	AttrRules:	189
+	AttrRules:	190
+	AttrRules:	191
+	AttrRules:	192
+	AttrRules:	193
+	AttrRules:	194
+	AttrRules:	195
+	AttrRules:	196
+	AttrRules:	197
+	AttrRules:	198
+	AttrRules:	199
+	AttrRules:	200
+	AttrRules:	201
+	AttrRules:	202
+	AttrRules:	203
+	AttrRules:	204
+	SnapTolCursor:	1
+)
+
+(ShpSrc.139
+	Name:	140
+	FTab:	142
+)
+
+(SrcName.140
+	FileName:	141
+	Name:	"jalan_salatiga.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.141
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/jalan_salatiga.shp"
+)
+
+(FTab.142
+	Name:	"jalan_salatiga.dbf"
+	BTab:	143
+	Fields:	168
+	Fields:	144
+	Fields:	145
+	Fields:	146
+	Fields:	147
+	Fields:	148
+	Fields:	149
+	Fields:	150
+	Fields:	151
+	Fields:	152
+	Fields:	153
+	Fields:	154
+	Fields:	155
+	Fields:	156
+	Fields:	157
+	Fields:	158
+	Fields:	159
+	Fields:	160
+	Fields:	161
+	Fields:	162
+	Fields:	163
+	Fields:	164
+	Fields:	165
+	Fields:	166
+	SelBits:	169
+	FSrc:	139
+)
+
+(dBASE.143
+	Name:	"jalan_salatiga.dbf"
+	Fields:	144
+	Fields:	145
+	Fields:	146
+	Fields:	147
+	Fields:	148
+	Fields:	149
+	Fields:	150
+	Fields:	151
+	Fields:	152
+	Fields:	153
+	Fields:	154
+	Fields:	155
+	Fields:	156
+	Fields:	157
+	Fields:	158
+	Fields:	159
+	Fields:	160
+	Fields:	161
+	Fields:	162
+	Fields:	163
+	Fields:	164
+	Fields:	165
+	Fields:	166
+	FileName:	167
+)
+
+(Field.144
+	Name:	"Type"
+	Btab:	143
+	Alias:	"Type"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.145
+	Name:	"Label"
+	Btab:	143
+	Alias:	"Label"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.146
+	Name:	"Descr"
+	Btab:	143
+	Alias:	"Descr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.147
+	Name:	"Label3"
+	Btab:	143
+	Alias:	"Label3"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.148
+	Name:	"City"
+	Btab:	143
+	Alias:	"City"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.149
+	Name:	"Region"
+	Btab:	143
+	Alias:	"Region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.150
+	Name:	"Country"
+	Btab:	143
+	Alias:	"Country"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.151
+	Name:	"Zip"
+	Btab:	143
+	Alias:	"Zip"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.152
+	Name:	"Oneway"
+	Btab:	143
+	Alias:	"Oneway"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.153
+	Name:	"Toll"
+	Btab:	143
+	Alias:	"Toll"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.154
+	Name:	"Speed"
+	Btab:	143
+	Alias:	"Speed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.155
+	Name:	"Roadclass"
+	Btab:	143
+	Alias:	"Roadclass"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.156
+	Name:	"Roadid"
+	Btab:	143
+	Alias:	"Roadid"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.157
+	Name:	"Level"
+	Btab:	143
+	Alias:	"Level"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.158
+	Name:	"Endlevel"
+	Btab:	143
+	Alias:	"Endlevel"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.159
+	Name:	"Notforemer"
+	Btab:	143
+	Alias:	"Notforemer"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.160
+	Name:	"Notfordeli"
+	Btab:	143
+	Alias:	"Notfordeli"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.161
+	Name:	"Notforcar"
+	Btab:	143
+	Alias:	"Notforcar"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.162
+	Name:	"Notforbus"
+	Btab:	143
+	Alias:	"Notforbus"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.163
+	Name:	"Notfortaxi"
+	Btab:	143
+	Alias:	"Notfortaxi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.164
+	Name:	"Notforpede"
+	Btab:	143
+	Alias:	"Notforpede"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.165
+	Name:	"Notforbicy"
+	Btab:	143
+	Alias:	"Notforbicy"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.166
+	Name:	"Notfortruc"
+	Btab:	143
+	Alias:	"Notfortruc"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.167
+	Path:	"c:/ms4w/apache/htdocs/gis/salatigamap/jalan_salatiga.dbf"
+)
+
+(Field.168
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.169
+	NumBits:	332
+
+)
+
+(Legend.170
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	171
+	Class:	174
+	StdDevs:	1.00000000000000
+	NullSym:	175
+	NullValues:	177
+	StatValues:	178
+	Precision:	-3
+)
+
+(SymList.171
+	Child:	172
+)
+
+(BLnSym.172
+	Color:	173
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.173
+	Red:	0x2bb4
+	Green:	0xbee9
+	Blue:	0xae23
+)
+
+(LClass.174
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.175
+	Color:	176
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.176
+	Name:	"Transparent"
+)
+
+(NameDict.177
+)
+
+(NameDict.178
+)
+
+(Thresh.179
+)
+
+(GSet.180
+)
+
+(TxPosArc.181
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.182
+	FTab:	142
+	Field:	144
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.183
+	FTab:	142
+	Field:	145
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.184
+	FTab:	142
+	Field:	146
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.185
+	FTab:	142
+	Field:	147
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.186
+	FTab:	142
+	Field:	148
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.187
+	FTab:	142
+	Field:	149
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.188
+	FTab:	142
+	Field:	150
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.189
+	FTab:	142
+	Field:	151
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.190
+	FTab:	142
+	Field:	152
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.191
+	FTab:	142
+	Field:	153
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.192
+	FTab:	142
+	Field:	154
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.193
+	FTab:	142
+	Field:	155
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.194
+	FTab:	142
+	Field:	156
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.195
+	FTab:	142
+	Field:	157
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.196
+	FTab:	142
+	Field:	158
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.197
+	FTab:	142
+	Field:	159
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.198
+	FTab:	142
+	Field:	160
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.199
+	FTab:	142
+	Field:	161
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.200
+	FTab:	142
+	Field:	162
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.201
+	FTab:	142
+	Field:	163
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.202
+	FTab:	142
+	Field:	164
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.203
+	FTab:	142
+	Field:	165
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.204
+	FTab:	142
+	Field:	166
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(GSet.205
+)
+
+(TxPosPly.206
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.207
+	FTab:	63
+	Field:	65
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.208
+	FTab:	63
+	Field:	66
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.209
+	FTab:	63
+	Field:	67
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.210
+	FTab:	63
+	Field:	68
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.211
+	FTab:	63
+	Field:	69
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.212
+	FTab:	63
+	Field:	70
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.213
+	FTab:	63
+	Field:	71
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(DocAct.214
+	Doc:	55
+)
+
+(Table.215
+	Name:	"gpsperusahaan.txt"
+	CreationDate:	"Friday, November 16, 2012 4:24:09 PM"
+	GUIName:	"Table"
+	Win:	216
+	CSMgr:	217
+	DocExts:	218
+	VTab:	219
+)
+
+(DocWin.216
+	Owner:	215
+	X:	35
+	Y:	35
+	W:	365
+	H:	255
+)
+
+(CSMgr.217
+)
+
+(DocAct.218
+	Doc:	215
+)
+
+(VTab.219
+	Name:	"gpsperusahaan.txt"
+	BTab:	220
+	Fields:	221
+	Fields:	222
+	Fields:	223
+	Fields:	224
+	Fields:	225
+	SelBits:	227
+)
+
+(DTxt.220
+	Name:	"gpsperusahaan.txt"
+	Fields:	221
+	Fields:	222
+	Fields:	223
+	Fields:	224
+	Fields:	225
+	FileName:	226
+	Delim:	9
+	FFirst:	1
+)
+
+(Field.221
+	Name:	"Usahaid"
+	Btab:	220
+	Alias:	"Usahaid"
+	Visible:	1
+	Type:	9
+	Pixels:	44
+)
+
+(Field.222
+	Name:	"Nama"
+	Btab:	220
+	Alias:	"Nama"
+	Visible:	1
+	Type:	4
+	Order:	1
+	Pixels:	150
+)
+
+(Field.223
+	Name:	"Alamat"
+	Btab:	220
+	Alias:	"Alamat"
+	Visible:	1
+	Type:	4
+	Order:	2
+	Pixels:	150
+)
+
+(Field.224
+	Name:	"Southing"
+	Btab:	220
+	Alias:	"Southing"
+	Visible:	1
+	Type:	9
+	Order:	3
+	Pixels:	59
+)
+
+(Field.225
+	Name:	"Easting"
+	Btab:	220
+	Alias:	"Easting"
+	Visible:	1
+	Type:	9
+	Order:	4
+	Pixels:	65
+)
+
+(FN.226
+	Path:	"d:/aryatitipmsbro/gpsperusahaan.txt"
+)
+
+(Bitmap.227
+	NumBits:	164
+
+)
+
+(LButn.228
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"View.New"
+)
+
+(LButn.229
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.230
+	HelpTopic:	"Add_button"
+	Update:	"Doc.ActionUpdate"
+	Label:	"&Add"
+	Click:	"Doc.Action"
+)
+
+(NameDict.231
+)
+
+(NameDict.232
+	Obj:	233
+	Obj:	234
+)
+
+(AVDict.233
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.234
+	InternalName:	"_Thor_"
+)
+
+(FN.1059
+	Path:	"$HOME"
+)
+
+(TClr.1060
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1061
+	S:	"View"
+)
+
+(AVStr.1062
+	S:	"Table"
+)
+
+(AVStr.1063
+	S:	"Chart"
+)
+
+(AVStr.1064
+	S:	"Layout"
+)
+
+(AVStr.1065
+	S:	"Script"
+)
+
+(AVStr.1066
+	S:	"Project"
+)
+
+(AVStr.1067
+	S:	"Appl"
+)
+
